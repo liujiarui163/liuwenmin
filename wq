@@ -1,0 +1,97 @@
+[33mcommit b0e883e168411454413d82ba982039d4a4d1e746[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sirouyang <284577461@qq.com>
+Date:   Wed Apr 4 10:03:18 2018 +0800
+
+    卢俊义的第一次本地提交
+
+[33mcommit 9113bcaf89da3791da6521fe127350889c166cc7[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Merge: 6d388ca 34acc23
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 20:29:47 2018 +0800
+
+    dev merge zqd and mtz and handled conflict
+
+[33mcommit 34acc2304b3cb09813ee70e23805459265bb9ec0[m[33m ([m[1;31morigin/mtz[m[33m)[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 20:26:03 2018 +0800
+
+    mtz modify ggzy
+
+[33mcommit 6d388ca4b26623c011fab31b04b706f4dbf85fed[m[33m ([m[1;31morigin/zqd[m[33m, [m[1;31morigin/wusong[m[33m)[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 20:24:32 2018 +0800
+
+    zqd modify ggzy
+
+[33mcommit 6a1be1cba29356238739b218ad1a5851a929dd03[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 20:20:12 2018 +0800
+
+    master commit public res
+
+[33mcommit aebf941eb24f5f4550bd8a8f06ee8b37e823c864[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 20:10:54 2018 +0800
+
+    关羽的提交
+
+[33mcommit 4bbdcb7af1476aba6836f4486ecdf1949fb2bf42[m
+Merge: 00b85f2 f24d360
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 19:56:53 2018 +0800
+
+    Merge branch 'zqd' in good mood!
+
+[33mcommit 00b85f2ef96b52e8dea6fd36e54963217faf1f96[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 18:29:31 2018 +0800
+
+    new doc
+
+[33mcommit f5ac65b41ac446ae6d2e056fcea7b487048ed0a1[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 18:27:35 2018 +0800
+
+    mtz commit
+
+[33mcommit f24d3607727ea56109282e98d74089d7c078afa8[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 18:18:15 2018 +0800
+
+    zqd的第一次提交
+
+[33mcommit 82a86405b9df7454990e4880535dbebc54056538[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 13:35:14 2018 +0800
+
+    a load of files
+
+[33mcommit 5c1ad87e271eeb3b5256da6cb8b1790e6c6ebfd6[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 13:04:50 2018 +0800
+
+    dirs and files
+
+[33mcommit 9e175fdfce49edf725fdce2b93ae5180c338777c[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 12:58:41 2018 +0800
+
+    新增一些代码
+
+[33mcommit 2ac92e69b9cf7da8a0e7bfec5eeeaed5211dcfef[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 12:51:55 2018 +0800
+
+    add and commit
+
+[33mcommit 14f62a389e2e7f2b63a30b4e185571cb29faf298[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 12:44:59 2018 +0800
+
+    add Python
+
+[33mcommit a1f65d608797bd5d858a568e142fb829d488a32d[m
+Author: sirouyang <284577461@qq.com>
+Date:   Tue Apr 3 12:40:51 2018 +0800
+
+    my first commit
